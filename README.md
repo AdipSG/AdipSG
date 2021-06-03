@@ -5,5 +5,5 @@ Hello, My real name is **Adip**
 <br/>👤 Discord: **Adip#1790**
 <br/>📂 If you have trouble with the repo, please dm my discord
 <br/>
- - 👷 I’m currently working on Node JS & C++
+ - 👷 I’m currently working on Python, Node JS & C++
  - 🕵️ I’m currently learning C#
