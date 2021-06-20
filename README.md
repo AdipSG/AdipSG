@@ -1,8 +1,7 @@
-## Welcome to my Repositories 👋
+## Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'am Adip
 
-Hello, My real name is **Adip**
-<br/>🏠 I live in **Pariaman, Padang**
-<br/>👤 Discord: **Adip#1790**
+Hello, My name is **Adip**
+<br/>👤 Discord: **Adip#1111**
 <br/>📂 If you have trouble with the repo, please dm my discord
 <br/>
  - 👷 I’m currently working on Python, Node JS & C++
